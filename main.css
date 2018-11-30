@@ -1,0 +1,26 @@
+.articles {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 50%;
+    overflow-wrap: break-word;
+}
+
+#art1 {
+    
+    border: 2px solid blue;
+    width: 230px;
+    margin: 20px;
+    overflow-wrap: break-word;
+    padding: 2px;
+    
+}
+
+#art2 {
+    
+    border: 2px solid red;
+    width: 230px;
+    margin: 20px; 
+    overflow-wrap: break-word;
+    padding: 2px;
+
+}
